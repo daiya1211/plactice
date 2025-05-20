@@ -1,2 +1,2 @@
-result=7%3
-print("7 % 3 =",result)
+a=7%3
+print("7 % 3 =",a)
